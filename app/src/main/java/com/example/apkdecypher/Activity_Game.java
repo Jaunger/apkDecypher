@@ -45,7 +45,6 @@ public class Activity_Game extends AppCompatActivity {
             finishGame();
         }
     }
-//314924358 -> Pennsylvania
     private void finishGame() {
         String state = getIntent().getStringExtra(EXTRA_STATE);
         if (this.goodToGo) {
