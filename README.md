@@ -53,4 +53,4 @@ By playing the game and completing the game, I received the message: **"Survived
 ---
 
 ## Conclusion
-This project provided valuable hands-on experience with reverse engineering and working with APK files. By carefully analyzing and reconstructing the app, I was able to uncover the hidden message and understand the game mechanics.
+This project provided valuable hands-on experience with reverse engineering and working with APK files. By carefully analyzing and reconstructing the app, I was able to receive the message and understand the game mechanics.
